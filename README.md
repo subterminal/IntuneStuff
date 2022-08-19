@@ -2,7 +2,7 @@
 
 Create-DesktopShortcut.ps1 Usage:
 
-Create-DesktopShortcut.ps1 -ShurtcutName "<value>" -WebsiteUrl "<value>" -IconName "<value>" -IconDownload "<value>"
+Create-DesktopShortcut.ps1 -ShurtcutName "Cool Website" -WebsiteUrl "http://coolwebsite.neat" -IconName "coolsite.ico" -IconDownload "http://coolwebsite.neat/dir/coolsite_icon837486732.ico"
 
 ShortcutName: Name as it will appear on the desktop shortcut
 WebsiteUrl: Website URL that you wish to create shortcut to
